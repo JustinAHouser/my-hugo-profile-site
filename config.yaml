@@ -1,0 +1,4 @@
+baseURL: "https://justinahouser.github.io/my-hugo-profile-site/"
+languageCode: "en-us"
+title: "My Hugo Profile Site"
+theme: hugo-profile
