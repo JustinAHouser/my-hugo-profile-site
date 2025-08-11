@@ -1,4 +1,78 @@
 baseURL: "https://justinahouser.github.io/my-hugo-profile-site/"
 languageCode: "en-us"
 title: "My Hugo Profile Site"
-theme: hugo-profile
+theme: "hugo-profile"
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+pagination:
+  pagerSize: 6
+
+enableRobotsTXT: true
+
+params:
+  env: production
+  title: "My Hugo Profile Site"
+  description: "A personal website built with the Hugo Profile theme"
+  author: "Justin A. Houser"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # possible values: light, dark, auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: true
+  comments: false
+
+  navbar:
+    align: ms-auto
+    brandName: "Justin"
+    disableSearch: false
+    menus:
+      disableNewProjects: true
+      disableProjects: true
+      disableExperience: true
+      disableEducation: true
+      disableAchievements: true
+      disableAbout: false
+      disableContact: false
+
+  hero:
+    enable: true
+    intro: "Hello, I'm"
+    title: "Justin A. Houser"
+    subtitle: "I build things for the web"
+    content: "I’m a developer based in North Carolina who enjoys building websites and apps. This site uses the Hugo Profile theme."
+    image: ""
+    button:
+      enable: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: "https://github.com/JustinAHouser"
+        - icon: fab fa-linkedin
+          url: "https://linkedin.com/in/JustinAHouser"
+
+  about:
+    enable: true
+    title: "About Me"
+    image: ""
+    content: |
+      I'm a developer who loves to create static websites using Hugo. This site is built with the Hugo Profile theme and deployed on GitHub Pages.
+    skills:
+      enable: true
+      title: "Skills"
+      items:
+        - "Go"
+        - "Python"
+        - "JavaScript"
+        - "Hugo"
