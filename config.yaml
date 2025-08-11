@@ -36,6 +36,7 @@ params:
   ShowWordCount: true
   UseHugoToc: true
   comments: false
+  canonifyURLs: true
 
 
   navbar:
