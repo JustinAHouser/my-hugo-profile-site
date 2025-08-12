@@ -68,9 +68,9 @@ params:
       enable: true
         
         label: "View Resume"
-      burl: "/resume/"
+    burl: "/resume/"
     socialLinks:
-      fontAwesomeIcons:
+    fontAwesomeIcons:
         - icon: fab fa-github
           url: "https://github.com/JustinAHouser"
         - icon: fab fa-linkedin
