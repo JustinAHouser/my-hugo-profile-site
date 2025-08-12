@@ -1,5 +1,9 @@
 {{ define "main" }}
-  {{ $resume := readFile "content/resume.md" }}
-  {{ $converted := $resume | markdownify }}
-  {{ $converted }}
+  {{ $page := .Site.GetPage "page" "resume.md" }}
+  {{ with $page }}
+    <article class="resume-content">
+      {{ .TableOfContents }}
+      {{ .Content }}
+    </article>
+  {{ end }}
 {{ end }}
