@@ -65,6 +65,15 @@ params:
       - icon: fab fa-linkedin
         url: "https://linkedin.com/in/JustinAHouser"
 
+{{ define "main" }}
+  {{ partial "sections/hero.html" . }}
+  {{ partial "sections/resume.html" . }}
+  {{/* Optionally keep other sections, e.g.: */}}
+  {{ partial "sections/about.html" . }}
+  {{ partial "sections/recent-posts.html" . }}
+{{ end }}
+
+
   about:
     enable: true
     title: "About Me"
