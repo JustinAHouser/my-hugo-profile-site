@@ -1,8 +1,0 @@
-<section class="container my-5">
-  <div class="row justify-content-center">
-    <div class="col-lg-9">
-      {{/* Read resume.md, strip its front matter, then render Markdown */}}
-      {{ readFile "content/resume.md" | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
-    </div>
-  </div>
-</section>
