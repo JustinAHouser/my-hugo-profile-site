@@ -3,9 +3,18 @@ baseURL: "https://justinahouser.github.io/my-hugo-profile-site/"
 languageCode: "en-us"
 title: "My Hugo Profile Site"
 theme: "hugo-profile"
+module:
+  imports:
+    - path: github.com/gurusabarish/hugo-profile
 
 outputs:
-  
+  home:
+    - HTML
+    - RSS
+    - JSON
+  page:
+    - HTML
+    - RSS
 
 pagination:
   pagerSize: 6
@@ -58,7 +67,6 @@ params:
         url: "https://github.com/JustinAHouser"
       - icon: fab fa-linkedin
         url: "https://linkedin.com/in/JustinAHouser"
-
 
   about:
     enable: true
