@@ -65,8 +65,7 @@ params:
       - icon: fab fa-linkedin
         url: "https://linkedin.com/in/JustinAHouser"
 
-  ---
-about:
+  about:
     enable: true
     title: "About Me"
     image: ""
