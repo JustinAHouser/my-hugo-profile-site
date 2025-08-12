@@ -57,7 +57,7 @@ params:
     image: ""
     button:
       enable: true
-      label: "View Resume"
+      name: "View Resume"
       url: "/resume/"
     fontAwesomeIcons:
       - icon: fab fa-github
