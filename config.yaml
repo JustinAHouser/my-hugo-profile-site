@@ -66,8 +66,8 @@ params:
     image: ""
     button:
       enable: true
-      button.label: "View Resume"
-      button.url: "/resume/"
+    button.label: "View Resume"
+    button.url: "/resume/"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
