@@ -5,13 +5,7 @@ title: "My Hugo Profile Site"
 theme: "hugo-profile"
 
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-  page:
-    - HTML
-    - RSS
+  
 
 pagination:
   pagerSize: 6
@@ -64,14 +58,6 @@ params:
         url: "https://github.com/JustinAHouser"
       - icon: fab fa-linkedin
         url: "https://linkedin.com/in/JustinAHouser"
-
-{{ define "main" }}
-  {{ partial "sections/hero.html" . }}
-  {{ partial "sections/resume.html" . }}
-  {{/* Optionally keep other sections, e.g.: */}}
-  {{ partial "sections/about.html" . }}
-  {{ partial "sections/recent-posts.html" . }}
-{{ end }}
 
 
   about:
