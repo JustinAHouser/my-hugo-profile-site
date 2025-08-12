@@ -65,7 +65,9 @@ params:
     content: "I’m a developer based in North Carolina who enjoys building websites and apps. This site uses the Hugo Profile theme."
     image: ""
     button:
-      enable: false
+      enable: true
+      button.label: "View Resume"
+      button.url: "/resume/"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
