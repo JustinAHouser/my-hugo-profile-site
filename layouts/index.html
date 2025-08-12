@@ -1,0 +1,3 @@
+{{ $resume := readFile "content/resume.md" }}
+{{ $converted := $resume | markdownify }}
+{{ $converted }}
