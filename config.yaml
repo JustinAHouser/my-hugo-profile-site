@@ -3,9 +3,6 @@ baseURL: "https://justinahouser.github.io/my-hugo-profile-site/"
 languageCode: "en-us"
 title: "My Hugo Profile Site"
 theme: "hugo-profile"
-module:
-  imports:
-    - path: github.com/gurusabarish/hugo-profile
 
 outputs:
   home:
@@ -73,7 +70,7 @@ params:
     title: "About Me"
     image: ""
     content: |
-      I'm a who loves to create static websites using Hugo. This site is built with the Hugo Profile theme and deployed on GitHub Pages.
+      I'm a developer who loves to create static websites using Hugo. This site is built with the Hugo Profile theme and deployed on GitHub Pages.
     skills:
       enable: true
       title: "Skills"
