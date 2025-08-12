@@ -1,0 +1,18 @@
+{{ $resume := readFile "content/resume.md" }}
+<div id="resume-box" style="display:none; margin-top: 1em;">
+  {{ $resume | markdownify }}
+</div>
+<button id="resume-toggle" style="margin-top: 1em;">Show Resume</button>
+<script>
+  const btn = document.getElementById('resume-toggle');
+  const box = document.getElementById('resume-box');
+  btn.onclick = function() {
+    if (box.style.display === 'none') {
+      box.style.display = 'block';
+      btn.textContent = 'Hide Resume';
+    } else {
+      box.style.display = 'none';
+      btn.textContent = 'Show Resume';
+    }
+  };
+</script>
