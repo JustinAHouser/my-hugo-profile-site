@@ -66,8 +66,9 @@ params:
     image: ""
     button:
       enable: true
-    button.label: "View Resume"
-    button.url: "/resume/"
+        
+        label: "View Resume"
+      burl: "/resume/"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -93,6 +94,4 @@ params:
         - "Python"
         - "JavaScript"
         - "Hugo"
-
-
 
