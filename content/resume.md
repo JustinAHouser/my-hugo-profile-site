@@ -1,0 +1,107 @@
+---
+title: "Resume"
+---
+
+## Contact Information
+
+- **Name:** Justin Houser
+- **Location:** Leland, NC 28451
+- **Email:** jahouser316@gmail.com
+- **Phone:** (910) 200-2815
+
+## Skills
+
+- Salesmanship
+- Love of learning
+- Customer focused
+- Computer proficiency
+- Logically minded
+- Works well with others
+- Creative
+- Flexible
+- Loyal
+
+## Education
+
+- **Associate of Applied Science in Business Administration**, Brunswick Community College, Bolivia, NC (December 2024) – GPA 3.5
+- **Business Administration**, Cape Fear Community College, Wilmington, NC (December 2020) – Dual Enrolled, GPA 3.5
+- **Certified Notary Public**, Cape Fear Community College, Wilmington, NC (May 2023)
+- **High School Diploma**, Hazelstone Academy, Leland, NC (June 2021) – Homeschool, GPA 4.0
+
+## Professional Experience
+
+### HVAC Service Technician – Coastal Heating and Air, Wilmington, NC (February 2025 – June 2025)
+
+- Performing routine service on HVAC units in a skilled and timely fashion
+- Helping diagnose electrical and mechanical issues
+- Assisting coworkers with tasks and being prepared with the right tools
+- Avoiding/controlling dangerous situations while on the job
+
+### HVAC Installer – Vann and Hicks HVAC, Supply, NC (November 2024 – February 2025)
+
+- Replacing and/or installing duct systems
+- Wrapping and preparing boots and pipe for install
+- Attaching collars
+- Working in tight spaces and inclement weather
+- Helping coworkers and bosses solve issues by being reliable and prompt
+
+### Barista – Port City Java, Leland, NC (March 2024 – Present)
+
+- Crafting handmade drinks for customers
+- Operating the cash register
+- Working as part of a fast-paced team
+- Helping satisfy customer complaints in a professional manner
+- Keeping the café clean and organized
+- Improvising solutions when problems arise
+- Learning new recipes quickly and efficiently
+- Teaching new employees and complying with health codes
+
+### Manufacturing Technician – The Beach Mule, Wilmington, NC (January 2024 – March 2024)
+
+- Building and testing electronic beach carts
+- Manufacturing and assembling electronics
+- Providing creative solutions
+- Assisting my supervisor with tasks as needed
+- Practicing welding, engineering, electrical work, 3D printing, soldering, wiring, quality control, and woodworking
+
+### Sales Associate – The UPS Store, Leland, NC (March 2023 – December 2023)
+
+- Notarizing documents
+- Operating the cash register, printers, and assorted office equipment such as laminators, cutters, and hole punchers
+- Printing documents and pictures
+- Working as a functioning member of a team in a fast-paced environment
+- Satisfying the needs of customers and improvising solutions when challenges arise
+- Helping satisfy customer complaints in a professional manner
+- Satisfying sales quotas to an exceptional degree
+- Never receiving a damaged package claim for any item packed
+
+### Barista – Port City Java, Leland, NC (August 2021 – March 2023)
+
+- Same responsibilities as current Port City Java employment (see above)
+
+### Dishwasher – Cape Fear National, Leland, NC (November 2020 – August 2021)
+
+- Washing dishes and cleaning the dish pit
+- Adapting and improvising under a high-pressure environment
+- Complying with health codes
+
+## Certifications
+
+- **Residential HVAC License** – Brunswick Community College, Bolivia, NC (December 2024)  
+  _Earned 10-Hour OSHA Certification, EPA Certification, and Residential HVAC License through HVAC class_
+- **Universal EPA Refrigerant License** – Brunswick Community College, Bolivia, NC (December 2024)
+- **OSHA 10-Hour Construction Safety and Health Certification** – Brunswick Community College, Bolivia, NC (December 2024)
+
+## Hobbies and Interests
+
+- Ballet dancer for 7 years
+- Martial artist for 10 years
+- Member of the Cape Fear Makers Guild
+- Fascination with engineering, 3D printing, and woodworking
+- Working towards designing and building my own house
+
+## References
+
+- Wyatt Fields – Port City Java Manager – (910) 800-1051
+- Gabe Homick – Personal friend – (910) 712-4387
+- Elizabeth Hester – UPS Store chain owner – (910) 230-7936
