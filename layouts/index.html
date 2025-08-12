@@ -1,9 +1,0 @@
-{{ define "main" }}
-  {{ $page := .Site.GetPage "page" "resume.md" }}
-  {{ with $page }}
-    <article class="resume-content">
-      {{ .TableOfContents }}
-      {{ .Content }}
-    </article>
-  {{ end }}
-{{ end }}
