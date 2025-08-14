@@ -37,6 +37,7 @@ params:
 
   hero:
     enable: true
+    image: ""
     intro: "Hello, I'm"
     title: "Justin A. Houser"
     subtitle: "I build things for the web"
@@ -53,6 +54,7 @@ params:
 
   about:
     enable: true
+    image: ""
     title: "About Me"
     content: |
       I'm a developer who loves to create static websites using Hugo. This site is built with the Hugo Profile theme and deployed on GitHub Pages.
