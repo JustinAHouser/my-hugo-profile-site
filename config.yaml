@@ -38,7 +38,7 @@ params:
   navbar:
     align: ms-auto
     brandName: "Justin"
-    disableSearch: false
+    disableSearch: true
     menus:
       disableNewProjects: true
       disableProjects: true
