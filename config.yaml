@@ -37,11 +37,11 @@ params:
 
   hero:
     enable: true
-    image: ""
     intro: "Hello, I'm"
     title: "Justin A. Houser"
     subtitle: "I build things for the web"
     content: "I'm a developer based in North Carolina who enjoys building websites and apps. This site uses the Hugo Profile theme."
+    image: ""
     button:
       enable: true
       name: "View Resume"
@@ -54,8 +54,8 @@ params:
 
   about:
     enable: true
-    image: ""
     title: "About Me"
+    image: ""
     content: |
       I'm a developer who loves to create static websites using Hugo. This site is built with the Hugo Profile theme and deployed on GitHub Pages.
     skills:
